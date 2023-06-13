@@ -32,7 +32,7 @@ export default function Home({ setUser }) {
   return (
     <>
       <div className='w-screen h-screen flex flex-col justify-center items-center bg-gray-800 nunito'>
-        <h1 className='text-2xl text-white font-bold mb-10'>Fruitflix Delivery Login</h1>
+        <h1 className='text-2xl text-white font-bold mb-10'>Quint Essentials Delivery Login</h1>
         <form className='w-11/12'>
           <div className='flex flex-col'>
             <label htmlFor="email" className='text-white font-semibold mb-1'>Email: </label>
